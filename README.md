@@ -1,4 +1,4 @@
-# EnemyOfWallet
+# Enemy Of Wallet
 You can manage your expenses with this app.
 The app was developed with Realm Database and MVC Design Pattern.
 You cannot run this app if you download because realm files are so large so I removed. For all files please contact me.
